@@ -1,0 +1,12 @@
+fastapi[standard]
+streamlit
+requests
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-chroma
+langchain-text-splitters
+chromadb
+pymupdf
